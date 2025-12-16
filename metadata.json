@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis AI",
+  "description": "A high-performance, voice-native AI assistant using Gemini Live API. Features real-time conversational audio, visual feedback, and a mobile-first design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
